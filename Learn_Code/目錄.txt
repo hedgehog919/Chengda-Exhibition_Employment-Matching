@@ -1,0 +1,11 @@
+
+* 初入門
+	HelloWorld	程式初始篇 - 認識Java
+	TangPoetry	唐詩三百首
+
+* 數字運算
+	Number_Crunching_learn1	矩形面積運算
+	Number_Crunching_learn2	三科成績運算總和
+	Number_Crunching_learn3	三角餅乾貴蔘蔘
+	Number_Crunching_learn4	溫度轉換，華氏轉攝氏
+	Number_Crunching_learn5	計算 BMI
